@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "fusionmcp": {
-      "enabled": false
+      "enabled": true
     },
     "context7": {
       "enabled": true
